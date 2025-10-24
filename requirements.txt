@@ -1,0 +1,17 @@
+# PST Parser Requirements
+# These are automatically installed in the Databricks notebook
+
+# PST file parsing library
+pypff-python>=20211114
+
+# PySpark (provided by Databricks runtime)
+# pyspark>=3.0.0
+
+# Standard libraries (included with Python)
+# - os
+# - shutil
+# - pathlib
+# - datetime
+# - hashlib
+# - tempfile
+
