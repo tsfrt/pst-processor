@@ -47,7 +47,10 @@ Thumbs.db
 # Project specific
 *.pst
 *.ost
+*.eml
+*.mbox
 /tmp/
 /temp/
 /test_data/
+/mock_pst_files/
 
